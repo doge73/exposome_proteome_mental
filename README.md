@@ -1,0 +1,1 @@
+These are the code for main analyses in the study "Relationships between the external exposome and proteome linked to mental health in mid-adolescence". If you have any further inquire, please contact: zhiyang.wang@helsinki.fi
